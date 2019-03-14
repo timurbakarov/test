@@ -1,3 +1,7 @@
 First commit
 
+<<<<<<< HEAD
 Second commit on master branch
+=======
+Feature 1
+>>>>>>> feature1
